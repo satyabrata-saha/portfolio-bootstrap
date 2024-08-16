@@ -1,0 +1,36 @@
+/* background-color */
+.color-bg-dark-purpel{
+    background-color: #6311F4;
+}
+.color-bg-white{
+    background-color: #F4F2D2;
+}
+.color-bg-black{
+    background-color: #22263B;
+}
+
+/* text-color */
+.color-text-dark-purpel{
+    color: #6311F4;
+}
+.color-text-white{
+    color: #F4F2D2;
+}
+.color-text-black{
+    color: #22263B;
+}
+
+/* main-css */
+*{
+    font-family: "europa", sans-serif;
+    font-size: 18px;
+    color: #22263B;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.round-btn{
+    border: 2px solid #6311F4;
+}
